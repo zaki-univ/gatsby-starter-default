@@ -1,5 +1,5 @@
 # gatsby-starter-default
-The default Gatsby starter
+The default Gatsby starter (Using Gatsby v1)
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
